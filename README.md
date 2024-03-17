@@ -8,7 +8,13 @@
         </a>
     </div>
     <div>
-        <h3>Habilidades</h3>
+        <table>
+            <tr>
+                <td>
+                    <h3>Habilidades</h3>
+                </td>
+            </tr>
+        </table>
         <h4>Lenguajes de programación</h4>
         <table style="margin: auto;">
             <tr>
