@@ -9,9 +9,9 @@
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidvchang/" height="30" width="40" style="margin-right: 10px;">
         </a>
     </div>
+    <hr/>
     <div>
         <h4>Habilidades Técnicas</h4>
-        <hr/>
         <table style="margin: auto;">
             <tr>
                 <td>
