@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Sobre mi</h1>
-    <h2>Hola 👋, Soy David Valenzuela</h1>
+    <h3>Hola 👋, Soy David Valenzuela</h1>
     <h5>Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante.</h5>
     <div>
         <h3>Contactame:</h3>
