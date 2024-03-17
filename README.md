@@ -8,13 +8,6 @@
         </a>
     </div>
     <div>
-        <table style="margin: 0">
-            <tr>
-                <td>
-                    <p>Habilidades</p>
-                </td>
-            </tr>
-        </table>
         <h4>Lenguajes de programación</h4>
         <table style="margin: auto;">
             <tr>
