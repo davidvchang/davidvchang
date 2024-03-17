@@ -9,8 +9,8 @@
     </div>
     <div>
         <h3>Habilidades</h3>
-        <table style="margin: auto;">
         <h4>Lenguajes de programación</h4>
+        <table style="margin: auto;">
             <tr>
                 <td>
                     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -33,7 +33,9 @@
                     </a>
                 </td>
             </tr>
-            <h4>Bases de Datos</h4>
+        </table>
+        <h4>Bases de Datos</h4>
+        <table>
             <tr>
                 <td>
                     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -56,7 +58,8 @@
                     </a>
                 </td>
             </tr>
-            <h4>Desarrollo Web</h4>
+        </table>
+        <h4>Desarrollo Web</h4>
             <tr>
                 <td>
                     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -94,6 +97,5 @@
                     </a>
                 </td>
             </tr>
-        </table>
     </div>
 </div>
