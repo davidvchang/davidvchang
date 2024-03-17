@@ -1,4 +1,4 @@
-<div style="max-width: 800px; margin: 20px auto; padding: 20px; background-color: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+<div>
     <h1 align="center">Hola 👋, Soy David Valenzuela</h1>
     <h5 align="center">Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante.</h5>
     <div align="center">
