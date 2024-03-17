@@ -1,7 +1,10 @@
 <div align="center">
     <h1>Sobre mi</h1>
-    <h3>Hola 👋, Soy David Valenzuela</h1>
+    <h3>Hola 👋, Soy David Valenzuela</h3>
     <h5>Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante.</h5>
+    <h5>Me encuentro ancioso por seguir creciendo y poder formar parte de un equipo para poder desarrolar y seguir nutriendo mis habilidades como Programador
+
+Ante cualquiera de tus consultas podes comunicarte conmigo, estare encantado de responder!</h5>
     <div>
         <h3>Contactame:</h3>
         <a href="https://linkedin.com/in/https://www.linkedin.com/in/davidvchang/" target="blank">
