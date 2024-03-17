@@ -8,7 +8,7 @@
         </a>
     </div>
     <div style="margin-top: 20px;">
-        <h3>Lenguajes y Herramientas:</h3>
+        <h3>Habilidades</h3>
         <div style="margin-bottom: 20px;">
             <h4>Lenguajes de programación</h4>
             <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
