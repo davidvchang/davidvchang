@@ -10,7 +10,7 @@
         </a>
     </div>
     <div>
-        <h4>Habilidades</h4>
+        <h4>Habilidades Técnicas</h4>
         <table style="margin: auto;">
             <tr>
                 <td>
