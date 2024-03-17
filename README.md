@@ -8,7 +8,7 @@
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <h4>Lenguajes de programación</h4>
-<p align="left"> 
+<p align="left gap=5"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
