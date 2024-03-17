@@ -22,6 +22,7 @@
   </a> 
   
   <br/>
+  <h4>Lenguajes de programación</h4>
   <br/>
   
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
@@ -38,7 +39,8 @@
   </a> 
   
   <br/>
-  
+  <h4>Bases de datos</h4>
+  <br/>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
