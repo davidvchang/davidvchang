@@ -11,7 +11,7 @@
     </div>
     <h1></h1>
     <div>
-        <h4>Habilidades Técnicas</h4>
+        <h3>Habilidades Técnicas</h3>
         <table style="margin: auto;">
             <tr>
                 <td>
