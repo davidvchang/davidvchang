@@ -92,6 +92,7 @@
             </tr>
         </table>
         <h4>Control de Versiones</h4>
+        <table>
             <tr>
                 <td colspan="4" style="text-align: center;">
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -99,5 +100,6 @@
                     </a>
                 </td>
             </tr>
+        </table>
     </div>
 </div>
