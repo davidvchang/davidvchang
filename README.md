@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Soy David</h1>
-<h3 align="center">Programador|Desarrollador Front - End</h3>
-
-- 📫 Correo Electronico **dvalenzuelachang@gmail.com**
+<h3 align="center">Ing. en Sistemas Computacionales</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
