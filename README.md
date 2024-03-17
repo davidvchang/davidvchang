@@ -9,8 +9,8 @@
     </div>
     <div>
         <h3>Habilidades</h3>
-        <h4>Lenguajes de programación</h4>
         <table style="margin: auto;">
+        <h4>Lenguajes de programación</h4>
             <tr>
                 <td>
                     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
