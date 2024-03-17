@@ -8,7 +8,7 @@
         </a>
     </div>
     <div>
-        <table>
+        <table style="margin: auto;">
             <tr>
                 <td>
                     <h3>Habilidades</h3>
