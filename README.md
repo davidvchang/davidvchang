@@ -4,7 +4,7 @@
     <div style="text-align: center; margin-bottom: 20px;">
         <h3>Contactame:</h3>
         <a href="https://linkedin.com/in/https://www.linkedin.com/in/davidvchang/" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidvchang/" height="30" width="40" />
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidvchang/" height="30" width="40" border="solid 1px black" />
         </a>
     </div>
     <div style="margin-top: 20px;">
