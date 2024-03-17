@@ -58,7 +58,7 @@
             </a>
         </div>
         <div>
-            <h4>Otros</h4>
+            <h4>Control de versiones</h4>
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="margin: 10px; transition: transform 0.3s ease-in-out; width: 40px;">
             </a>
