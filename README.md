@@ -2,7 +2,7 @@
     <h1>Sobre mi</h1>
     <h3>Hola 👋, Soy David Valenzuela</h3>
     <p>Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante.</p>
-    <p>Me encuentro ancioso por seguir creciendo y poder formar parte de un equipo para poder desarrolar y seguir nutriendo mis habilidades como Programador</p>
+    <p>Me encuentro ancioso por seguir creciendo y poder formar parte de un equipo para poder desarrollar y seguir aprendiendo nuevos conocimientos y habilidades como Programador</p>
     <p>Ante cualquiera de tus consultas podes comunicarte conmigo, estare encantado de responder!</p>
     <div>
         <table>
