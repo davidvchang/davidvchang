@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <h1>Sobre mi</h1>
     <h3>Hola 👋, Soy David Valenzuela</h3>
     <h5>Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante.</h5>
