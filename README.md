@@ -7,7 +7,7 @@
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidvchang/" height="30" width="40" />
         </a>
     </div>
-    <div style="margin-top: 20px;">
+    <div align="center">
         <h3>Habilidades</h3>
         <div align="center">
             <h4>Lenguajes de programación</h4>
