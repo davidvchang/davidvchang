@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy David Valenzuela</h1>
-<h5 align="center">Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante</h5>
+<h5 align="center">Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante.</h5>
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
