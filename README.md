@@ -60,6 +60,7 @@
             </tr>
         </table>
         <h4>Desarrollo Web</h4>
+        <table>
             <tr>
                 <td>
                     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -89,7 +90,8 @@
                     </a>
                 </td>
             </tr>
-            <h4>Control de Versiones</h4>
+        </table>
+        <h4>Control de Versiones</h4>
             <tr>
                 <td colspan="4" style="text-align: center;">
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
