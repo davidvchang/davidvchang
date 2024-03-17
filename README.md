@@ -12,16 +12,16 @@
         <div align="center" style="margin-bottom: 20px;">
             <h4>Lenguajes de programación</h4>
             <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 45px; margin: 0 10px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 45px; margin: 0 50px;">
             </a>
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 45px; margin: 0 10px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 45px; margin: 0 50px;">
             </a>
             <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 45px; margin: 0 10px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 45px; margin: 0 50px;">
             </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 45px; margin: 0 10px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 45px; margin: 0 50px;">
             </a>
         </div>
         <div align="center" style="margin-bottom: 20px;">
