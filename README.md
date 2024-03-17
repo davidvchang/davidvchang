@@ -11,7 +11,7 @@
         <table style="margin: 0">
             <tr>
                 <td>
-                    <h3>Habilidades</h3>
+                    <p>Habilidades</p>
                 </td>
             </tr>
         </table>
