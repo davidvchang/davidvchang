@@ -5,9 +5,15 @@
     <p>Me encuentro ancioso por seguir creciendo y poder formar parte de un equipo para poder desarrolar y seguir nutriendo mis habilidades como Programador</p>
     <p>Ante cualquiera de tus consultas podes comunicarte conmigo, estare encantado de responder!</p>
     <div>
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/davidvchang/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidvchang/" height="30" width="40" style="margin-right: 10px;">
-        </a>
+        <table>
+            <tr>
+                <td>
+                    <a href="https://linkedin.com/in/https://www.linkedin.com/in/davidvchang/" target="blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidvchang/" height="30" width="40">
+                    </a>
+                </td>
+            </tr>
+        </table>
     </div>
     <h1></h1>
     <div>
