@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy David</h1>
-<h3 align="center">Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante</h3>
+<h4 align="center">Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
