@@ -9,7 +9,7 @@
     </div>
     <div style="margin-top: 20px;">
         <h3>Habilidades</h3>
-        <div style="margin-bottom: 20px;">
+        <div align="center">
             <h4>Lenguajes de programación</h4>
             <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="margin: 10px; transition: transform 0.3s ease-in-out; width: 40px;">
