@@ -40,6 +40,8 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 45px; margin: 5px;">
                     </a>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
                         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" style="width: 45px; margin: 5px;">
@@ -60,6 +62,8 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 45px; margin: 5px;">
                     </a>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 45px; margin: 5px;">
@@ -85,6 +89,8 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 45px; margin: 5px;">
                     </a>
                 </td>
+            </tr>
+            <tr>
                 <td colspan="4" style="text-align: center;">
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 45px; margin: 5px;">
