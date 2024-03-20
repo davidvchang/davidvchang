@@ -5,6 +5,17 @@
     <p>Me encuentro ancioso por seguir creciendo y poder formar parte de un equipo para poder desarrollar y seguir aprendiendo nuevos conocimientos y habilidades como Programador.</p>
     <p>Ante cualquiera de tus consultas podes comunicarte conmigo, estare encantado de responder!</p>
     <div>
+        <h3>Linkedin</h3>
+        <table>
+            <tr>
+                <td>
+                    <a href="https://david-valenzuela.netlify.app/" target="blank">
+                        <img src="https://david-valenzuela.netlify.app/assets/DV-C0UzJFNp.webp" alt="Logo" style="width: 27px; margin: 5px;">
+                    </a>
+                </td>
+            </tr>
+        </table>
+         <h3>Mi Portafolio Web</h3>
         <table>
             <tr>
                 <td>
