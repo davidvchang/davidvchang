@@ -84,12 +84,12 @@
                         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="width: 45px; margin: 5px;">
                     </a>
                 </td>
-                <td colspan="4" style="text-align: center;">
+                <td style="text-align: center;">
                     <a href="https://blog.getbootstrap.com/assets/brand/bootstrap-logo-shadow.png" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 45px; margin: 5px;">
                     </a>
                 </td>
-                <td colspan="4" style="text-align: center;">
+                <td style="text-align: center;">
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 45px; margin: 5px;">
                     </a>
