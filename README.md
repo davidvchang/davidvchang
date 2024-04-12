@@ -50,10 +50,11 @@
   <a href="https://twitter.com/DavidChangDev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611t4o42koarj3z9hsn8bvt54f1upcy2qo7xl1damzi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611t4o42koarj3z9hsn8bvt54f1upcy2qo7xl1damzi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 ###
