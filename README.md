@@ -1,111 +1,49 @@
-<div align="left">
-    <h1>Sobre mi</h1>
-    <h3>Hola 👋, Soy David Valenzuela</h3>
-    <p>Ing. en Sistemas Computacionales apasionado por la tecnología y el aprendizaje constante.</p>
-    <p>Me encuentro ancioso por seguir creciendo y poder formar parte de un equipo para poder desarrollar y seguir aprendiendo nuevos conocimientos y habilidades como Programador.</p>
-    <p>Ante cualquiera de tus consultas podes comunicarte conmigo, estare encantado de responder!</p>
-    <div>
-        <h3>Linkedin</h3>
-        <table>
-            <tr>
-                <td>
-                    <a href="https://linkedin.com/in/https://www.linkedin.com/in/davidvchang/" target="blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidvchang/" style="width: 27px; margin: 5px;">
-                    </a>
-                </td>
-            </tr>
-        </table>
-         <h3>Mi Portafolio Web</h3>
-        <table>
-            <tr>
-                <td>
-                    <a href="https://davidvalenzuela.vercel.app/" target="blank">
-                        <img src="https://david-valenzuela.netlify.app/assets/DV-C0UzJFNp.webp" alt="Logo" style="width: 27px; margin: 5px;">
-                    </a>
-                </td>
-            </tr>
-        </table>
-    </div>
-    <h1></h1>
-    <div>
-        <h3>Habilidades Técnicas</h3>
-        <table style="margin: auto;">
-            <tr>
-                <td>
-                    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-                        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td>
-                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td style="text-align: center;">
-                    <a href="https://blog.getbootstrap.com/assets/brand/bootstrap-logo-shadow.png" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-                <td style="text-align: center;">
-                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 45px; margin: 5px;">
-                    </a>
-                </td>
-            </tr>
-        </table>
-    </div>
+<h2 align="left">Hola 👋! Mi nombre es David Valenzuela</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
