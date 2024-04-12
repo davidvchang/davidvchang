@@ -54,10 +54,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611t4o42koarj3z9hsn8bvt54f1upcy2qo7xl1damzi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/davidvchang/davidvchang/output/snake.svg" alt="Snake animation" />
+<img align="center" height="200" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611t4o42koarj3z9hsn8bvt54f1upcy2qo7xl1damzi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
