@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611t4o42koarj3z9hsn8bvt54f1upcy2qo7xl1damzi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px 0;>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
