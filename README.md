@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Ing. En Sistemas Computacionales apasionado por el desarrollo web Front - End y la programacion.</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidvchang&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidvchang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
@@ -15,27 +11,27 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="35" alt="sass logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="35" alt="microsoftsqlserver logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo"  />
 </div>
 
@@ -58,10 +54,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/davidvchang/davidvchang/output/snake.svg" alt="Snake animation" />
+<img align="right" height="200" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611t4o42koarj3z9hsn8bvt54f1upcy2qo7xl1damzi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611t4o42koarj3z9hsn8bvt54f1upcy2qo7xl1damzi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img src="https://raw.githubusercontent.com/davidvchang/davidvchang/output/snake.svg" alt="Snake animation" />
 
 ###
