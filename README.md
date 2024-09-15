@@ -3,7 +3,9 @@
 ###
 
 # 💫 About Me:
-🎓Ingeniero en Sistemas Computacionales.<br>🌱 Aprendiendo cada día.<br>
+🎓Ingeniero en Sistemas Computacionales. <br/>
+🌱 Aprendiendo cosas nuevas cada día. <br/>
+👨‍💻 Apasionado por la programación y el desarrollo Web.
 
 
 ## 🌐 Socials:
