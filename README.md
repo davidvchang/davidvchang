@@ -1,6 +1,6 @@
-## <h2 align="left">Hola! 👋 mi nombre es David Valenzuela</h2>
+<h2 align="left">Hola! 👋 mi nombre es David Valenzuela</h2>
 
-###
+##
 
 # 💫 About Me:
 🎓Ingeniero en Sistemas Computacionales.<br>🌱 Prendiendo cada día.<br>
