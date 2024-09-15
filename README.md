@@ -2,7 +2,7 @@
 
 ###
 
-# 💫 About Me:
+## 💫 About Me:
 🎓Ingeniero en Sistemas Computacionales.<br>🌱 Prendiendo cada día.<br>
 
 
